@@ -1,0 +1,6 @@
+{
+  "name": "Mining Site - Surface & Subsurface Visualisation and Mapping",
+  "description": "Mining Site: Surface and subsurface visualisation and mapping workstation with AI photogrammetry survey, sequential distance tags, 3D station generation, and Cinema 4D modeling tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
